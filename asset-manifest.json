@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://rajeeguddeti.github.io/csb-7eikcl/static/css/main.cd9f1d0a.css",
+    "main.js": "https://rajeeguddeti.github.io/csb-7eikcl/static/js/main.861e4e72.js",
+    "index.html": "https://rajeeguddeti.github.io/csb-7eikcl/index.html",
+    "main.cd9f1d0a.css.map": "https://rajeeguddeti.github.io/csb-7eikcl/static/css/main.cd9f1d0a.css.map",
+    "main.861e4e72.js.map": "https://rajeeguddeti.github.io/csb-7eikcl/static/js/main.861e4e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9f1d0a.css",
+    "static/js/main.861e4e72.js"
+  ]
+}
